@@ -1,5 +1,8 @@
 # ⚖️ Azure Compliance & Governance Framework
 
+## Architecture
+![Architecture](docs/architecture-diagram.png)
+
 ## Overview
 Enterprise-grade Azure governance implementation
 covering Management Groups, Azure Policy, custom
